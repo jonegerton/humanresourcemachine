@@ -39,6 +39,8 @@ Years listed below with best times/line counts. Challenge targets are given in b
 | 17 | Exclusive Lounge | 12 (12) | 28 (28) |
 | 19 | Countdown | 10 (10) | 80 (82) |
 | 20 | Multiplication Workshop | 15 (15) | 106 (109) |
+| 21 | Zero Terminated Sum | 10 (10) | 70 (72) |
+
 ## Licence
 You are free to quote or reuse these solutions, but if you do use them publicly please include a credit link back to this repo.
 
