@@ -40,7 +40,12 @@ Years listed below with best times/line counts. Challenge targets are given in b
 | 19 | Countdown | 10 (10) | 80 (82) |
 | 20 | Multiplication Workshop | 15 (15) | 106 (109) |
 | 21 | Zero Terminated Sum | 10 (10) | 70 (72) |
-
+| 22 | Fibonacci Visitor | 18 (19) | 149 (156)|
+| 23 | The Littlest Number | 13 (13) | 73 (75) |
+| 24 | Mod Module | 11 (12) | 50 (57) |
+| 25 | Cumulative Countdown | 12 (12) | 79 (82) |
+| 26 | Small Divide | 15 (15) | 73 (76) |
+| 27 | Midnight Petroleum | -- | -- |
 ## Licence
 You are free to quote or reuse these solutions, but if you do use them publicly please include a credit link back to this repo.
 
