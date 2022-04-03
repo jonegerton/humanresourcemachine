@@ -37,6 +37,7 @@ Years listed below with best times/line counts. Challenge targets are given in b
 | 15 | Employee Morale Insertion | -- | -- |
 | 16 | Absolute Positivity | 8 (8) | 34 (36) | 
 | 17 | Exclusive Lounge | 12 (12) | 28 (28) |
+| 18 | Sabbatical Beach Paradise | -- | -- |
 | 19 | Countdown | 10 (10) | 80 (82) |
 | 20 | Multiplication Workshop | 15 (15) | 106 (109) |
 | 21 | Zero Terminated Sum | 10 (10) | 70 (72) |
@@ -46,6 +47,22 @@ Years listed below with best times/line counts. Challenge targets are given in b
 | 25 | Cumulative Countdown | 12 (12) | 79 (82) |
 | 26 | Small Divide | 15 (15) | 73 (76) |
 | 27 | Midnight Petroleum | -- | -- |
+| 28 | Three Sort | 32 (34) | 75 (78) |
+| 29 | Storage Floor | 5 (5) | 25 (25) |
+| 30 | String Storage Floor | 7 (7) | 203 (203) |
+| 31 | String Reverse | 11 (11) | 121 (122) |
+| 32 | Inventory Report | 16 (16) | 383 (393) |
+| 33 | Where's Carol? | -- | -- |
+| 34 | Vower Incinerator | 13 (13) | 323 (323) |
+| 35 | Duplicate Removal | 14 (17) | 158 (167) |
+| 36 | Alphabetizer | 37 (39) | 107 (109) |
+| 37 | Scavenger Chain | 8 (8) | 63 (63) |
+| 38 | Digit Exploder | 28 (30) | 163 (165) |
+| 39 | Re-Coordinator | 14 (14) | 76 (76) |
+| 40 | Prime Factory | 27 (28) | 368 (399) |
+| 41 | Sorting Floor | 34 (34) | 664 (714) | 
+| -- | End Program. Congratulations. | -- | -- |
+
 ## Licence
 You are free to quote or reuse these solutions, but if you do use them publicly please include a credit link back to this repo.
 

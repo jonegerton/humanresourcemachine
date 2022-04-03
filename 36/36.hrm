@@ -1,0 +1,58 @@
+-- HUMAN RESOURCE MACHINE PROGRAM --
+
+    COPYFROM 23
+    COPYTO   21
+a:
+    INBOX   
+    COPYTO   [21]
+    JUMPZ    b
+    BUMPUP   21
+    JUMP     a
+b:
+    COPYFROM 24
+    COPYTO   22
+c:
+    INBOX   
+    COPYTO   [22]
+    JUMPZ    d
+    BUMPUP   22
+    JUMP     c
+    COMMENT  0
+d:
+    COPYFROM 23
+    COPYTO   21
+    COPYFROM 24
+    COPYTO   22
+    JUMP     f
+e:
+    BUMPUP   21
+    COPYFROM [21]
+    JUMPZ    g
+    BUMPUP   22
+f:
+    COPYFROM [22]
+    JUMPZ    h
+    SUB      [21]
+    JUMPZ    e
+    JUMPN    i
+g:
+    COPYFROM 23
+    COPYTO   24
+    COPYFROM 21
+    COPYTO   22
+h:
+i:
+j:
+    COPYFROM [24]
+    JUMPZ    k
+    OUTBOX  
+    BUMPUP   24
+    JUMP     j
+k:
+
+
+DEFINE COMMENT 0
+eJzTZGBg4NLfa8enmhuxXiE9Z72Czar5iuJr81S41r1Vu7mRS//mxlkG/9YBlTGIONU7izhtD9rsZB2z
+2YllNkhss5NMkaJ3Q1Zf8Ma02LDrybFhnAkg8TVhVqZ/wopcpKMSG7KjDmwGiT3NvmZzJDc9x7gwafnl
+wuRzIDHjwvnVykUXy2XaLgRw9Th4gMQmlb4qXV/7seNcA8vsM62eKxlGwSgYBTQDAMoCPAc;
+
